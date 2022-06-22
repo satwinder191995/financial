@@ -1,6 +1,6 @@
 {
-    "name": "Pwa-Budget-Tracker",
-    "short_name": "Budget-Tracker",
+    "name": "Financial-Tracker",
+    "short_name": "Financial-Tracker",
     "icons": [
         {
             "src": "icons/icon-512x512.png",
@@ -44,9 +44,10 @@
         }
     ],
     "display": "standalone",
+    "orientation": "portrait",
     "start_url": ".",
     "theme_color": "#ffffff",
-    "orientation": "portrait",
-    "description": "A budget tracker app that allows the user to add and subtract their deposits",
-    "background_color": "#6666ff"
+    "background_color": "#6666ff",
+    "description": "A financial app that allows the user to add and subtract their deposits"
+    
 }

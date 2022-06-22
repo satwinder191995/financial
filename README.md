@@ -1,8 +1,8 @@
- # Tech blog [![badge](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
+ # Financial App [![badge](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
 
   ## Description
 
-  A tech blog application where someone can post blog and update post. Users can create account and create new post , update and delete.
+  A financial where user can track their money is important, but allowing them to access that information at any time is even more important.Having offline functionality is paramount to the success of an application that handles users’ financial information.
 
   ## Table of Contents
   - [Description](#description)
@@ -15,11 +15,12 @@
 
   ## Installation
 
-  Packages installed are:<br>  1. npm init <br> 2. npm express <br> 3. npm nodemon <br>4. npm sequelize <br> 5. npm MySQL2 <br> 6. npm express-sessions <br> 7. npm connect-session-sequelize <br> 8. npm dotenv
+  Packages installed are:<br>  1. npm init <br> 2. npm express <br> 3. npm nodemon <br>4. npm mongoose <br> 5. npm indexedDB <br> 6. npm service workers <br> 7. npm webpack <br> 8. npm webpack clis
 
   ## Usage
 
-    Blog app , where users can post tech realted articles. Users can easily mantain their posts. We can create accounts and track our posts in the dashbord.
+    Through financial app ,customers will be able to track my withdrawals and deposits with or without a data/internet connection
+SO THAT my account balance is accurate when I am traveling 
 
   ## License
 
