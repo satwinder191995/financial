@@ -1,5 +1,5 @@
 {
-    "name": "PWA-Budget-Tracker",
+    "name": "Pwa-Budget-Tracker",
     "short_name": "Budget-Tracker",
     "icons": [
         {
@@ -47,6 +47,6 @@
     "start_url": ".",
     "theme_color": "#ffffff",
     "orientation": "portrait",
-    "description": "A budget tracker app that allows the user to add expenses and make deposits while giving the user a money balance. The app is available offline and will still have full functionality.",
+    "description": "A budget tracker app that allows the user to add and subtract their deposits",
     "background_color": "#6666ff"
 }
