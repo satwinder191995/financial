@@ -47,4 +47,4 @@ For more information on license types, please reference to this website for addi
   ![This is website image](/public/image/budget.png)
 
   ## Heroku live app link
-  [Heroku app link](https://satwinder-blog.herokuapp.com/)
+  [Heroku app link](https://lit-reef-40274.herokuapp.com/)
